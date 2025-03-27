@@ -2,6 +2,8 @@
 
 A smooth, animated implementation of the classic 2048 game using Python and Pygame.
 
+![](https://ipfs.juchunko.com/ipfs/bafybeicykqzxlwx4ktxl4iqmtu5ecjzmdcwajx4pbcnwydfwnwua6yqxvy)
+
 ## Features
 - Smooth sliding animations
 - Modern UI design
